@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "@react-native-tvos/config-tv",
+        {
+          "showVerboseWarnings": true
+        }
+      ]
+    ],
+    "name": "my-app",
+    "slug": "my-app"
+  }
+}
